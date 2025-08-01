@@ -1,2 +1,2 @@
-# Data_warehouse_project
+# Data warehouse project
 Building a data warehouse using MySQL
