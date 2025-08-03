@@ -1,5 +1,5 @@
-# Data warehouse project
-Building a data warehouse. This project demonstrates a comprehensive and analytics solution, from building a data warehouse to generating actional insights.
+# Medallion Architecture Data warehouse project
+Building a Medallion Architecture Data Warehouse. This project demonstrates a comprehensive and analytics solution, from building a data warehouse to generating actional insights.
 
 ______
 
