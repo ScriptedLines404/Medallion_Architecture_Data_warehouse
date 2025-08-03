@@ -19,20 +19,6 @@ Develop a modern data warehouse to consolidate sales data, enabling analytical r
 
 ***
 
-**BI: Analytics and Reporting**  
-
-**Objective**  
-
-Develop SQL-based analytics to deliver detailed insights into:  
-
-* __Customer Behavior__  
-* __Product Performance__  
-* __Sales Trends__  
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-
-***
-
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
