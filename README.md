@@ -1,4 +1,4 @@
-# Medallion Architecture Data warehouse project
+# Medallion Architecture Data Warehouse 
 Building a Medallion Architecture Data Warehouse. This project demonstrates a comprehensive and analytics solution, from building a data warehouse to generating actional insights.
 
 ______
