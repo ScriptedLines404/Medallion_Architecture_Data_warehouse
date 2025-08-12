@@ -36,7 +36,7 @@ This project involves:
 ## 🛠️ Important Links & Tools:
 
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
-- **[MySQL Server](https://dev.mysql.com/downloads/installer/):** Lightweight server for hosting your SQL database.
+- **[MySQL Server](https://dev.mysql.com/downloads/mysql/):** Lightweight server for hosting your SQL database.
 - **[MySQL Workbench](https://dev.mysql.com/downloads/workbench/):** GUI for managing and interacting with databases.
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
